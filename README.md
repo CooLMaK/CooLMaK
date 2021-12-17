@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Ranjan
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Frontedn. 
+- 🌱 I’m currently learning DSA, FrontEnd. 
 - 📫 Email: sinha.mak@gmail.com
 
 <!---
